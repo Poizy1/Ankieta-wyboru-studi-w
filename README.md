@@ -1,2 +1,4 @@
-# Ankieta-wyboru-studi-w
-Ankieta, która pomoże wybrać jaki typ i kierunek studiów z województwa lubelskiego najbardziej do ciebie pasuje.
+Ankieta została wykonana w "bubble", z wykorzystaniem sztucznej intelicencji.
+
+Link do ankiety
+https://studia-ankieta.bubbleapps.io/version-test/poczatek
